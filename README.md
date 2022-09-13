@@ -28,6 +28,7 @@ Setting VS Code:
 
 <h2>Lectures: </h2>
 Section 1 - Getting Started
+<br>
 <ul>
   <li>Diffrence from native to progressive and web</li>
   <li>Node Download</li>
