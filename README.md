@@ -1,5 +1,3 @@
-
-
 <h1> Udemy PWA Course </h1>
 <h2> Progressive Web Apps (PWA) - The Complete Guide </h2>
 
@@ -34,4 +32,22 @@ Section 1 - Getting Started
   <li>Diffrence from native to progressive and web</li>
   <li>Node Download</li>
   <li>Building app from first-pwa</li>
+  <li>Core Building Blocks</li>
+    <ul>
+      <li>Service Workers - Offline Support and PWA feaures</li>
+      <li>Background Sync</li>
+      <li>Web Push</li>
+      <li>Application Manifest</li>
+      <li>Responsice Design</li>
+      <li>Geolocation API</li>
+      <li>Media API</li>
+    </ul>
+  </li>
+  <li>Course Outline</li>
+  <li>Install</li>
+</ul>
+
+Section 2 - Understanding the App Manifest
+
+<ul>
 </ul>
